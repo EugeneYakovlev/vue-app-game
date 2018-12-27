@@ -8,6 +8,7 @@
     background-color: #eee;
     margin: auto;
     transition: width 500ms;
+
 }
 
 .controls, .log {
